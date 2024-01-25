@@ -1,0 +1,56 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
+a {
+  color: orange;
+}
+a:hover {
+  color: black;
+}
+
+#todo {
+  padding: 80px 0;
+}
+#todo .box {
+  width: 300px;
+  padding: 27px 0 20px;
+  border-radius: 20px;
+  background: linear-gradient(0deg, rgb(34, 193, 195) 0%, rgb(235, 187, 45) 100%);
+}
+#todo .box h1 {
+  color: white;
+  font-weight: 700;
+  font-size: 50px;
+}
+#todo .inputBox {
+  margin: 25px 0 20px;
+}
+#todo .inputBox input {
+  width: 220px;
+  font-size: 20px;
+  padding: 17px 15px;
+  border-radius: 25px;
+}
+#todo .btn h5 {
+  background-color: white;
+  border-radius: 30px;
+  padding: 8px 30px;
+  font-size: 20px;
+}
+#todo .btn h5:hover {
+  cursor: pointer;
+}
+#todo .minibox {
+  padding: 30px 0;
+}
+#todo .minibox h2 {
+  width: 150px;
+  font-size: 20px;
+  padding: 10px;
+  margin-top: 20px;
+  border: 1px solid #1f4cc7;
+  border-radius: 20px;
+  word-wrap: break-word;
+}/*# sourceMappingURL=style.css.map */
